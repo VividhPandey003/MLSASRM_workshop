@@ -24,9 +24,13 @@ Learn how to contribute to open source projects. Learn the basics of creating is
 ## Resources to find issues where you could contribute to
 
 [Finder by EddieHub Community](finder.eddiehub.io)
-[GitHub's advanced search](https://github.com/search/advanced))
-[GitHub Topics](http://github.com/topics/JavaScript))
+
+[GitHub's advanced search](https://github.com/search/advanced)
+
+[GitHub Topics](http://github.com/topics/JavaScript)
+
 [Good First Issue label](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+
 [Scoutflo Atlas](https://atlas.scoutflo.com/hacktoberfest)
 
 ## Schwags
