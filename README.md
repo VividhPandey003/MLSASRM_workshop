@@ -3,3 +3,6 @@
 
 
 This is a repository created to get the members familiar with the concept of Git and Github.
+
+## Learning Outcomes
+Learn how to contribute to open source projects. Learn the basics of creating issues, pull requests, Git and Github
