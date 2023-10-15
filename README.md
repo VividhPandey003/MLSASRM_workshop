@@ -22,7 +22,7 @@ Learn how to contribute to open source projects. Learn the basics of creating is
 [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 
-### [What is Open Source](https://www.digitalocean.com/community/tutorials/what-is-open-source)
+### What is [Open Source](https://www.digitalocean.com/community/tutorials/what-is-open-source)
 
 ## Register for Hacktoberfest
 [Hacktoberfest](https://hacktoberfest.com/)
