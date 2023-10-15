@@ -10,11 +10,17 @@ Learn how to contribute to open source projects. Learn the basics of creating is
 
 ## Resources to get started
 [Git](http://up1.github.io/git-guide/index.html)
+
 [Atlassian Docs on Git](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+
 [Video on Git and Github by Kunal Kushwaha](https://youtu.be/apGV9Kg7ics?si=M9PjTV1s92WQcrBu)
+
 [Commits Naming Conventions](https://www.conventionalcommits.org/en/v1.0.0/)
+
 [Pull Request Naming Conventions](https://flank.github.io/flank/pr_titles/)
+
 [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 
 ### [What is Open Source](https://www.digitalocean.com/community/tutorials/what-is-open-source)
 
