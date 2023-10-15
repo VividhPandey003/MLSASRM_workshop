@@ -6,3 +6,7 @@ This is a repository created to get the members familiar with the concept of Git
 
 ## Learning Outcomes
 Learn how to contribute to open source projects. Learn the basics of creating issues, pull requests, Git and Github
+
+
+## Resources to get started
+[Git](http://up1.github.io/git-guide/index.html)
