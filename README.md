@@ -29,7 +29,7 @@ Learn how to contribute to open source projects. Learn the basics of creating is
 
 ## Resources to find issues where you could contribute to
 
-[Finder by EddieHub Community](finder.eddiehub.io)
+[Finder by EddieHub Community](https://finder.eddiehub.io)
 
 [GitHub's advanced search](https://github.com/search/advanced)
 
